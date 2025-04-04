@@ -1,11 +1,11 @@
 package = "lua-tutorial-project"
 version = "1.0-1"
 source = {
-   url = "*** please add URL for source tarball, zip or repository here ***"
+   url = "git@github.com:alfu32/lua-tutorial-project.git"
 }
 description = {
-   homepage = "*** please enter a project homepage ***",
-   license = "*** please specify a license ***"
+   homepage = "https://github.com/alfu32/lua-tutorial-project",
+   license = "MIT"
 }
 dependencies = {
    "lua ~> 5.4"

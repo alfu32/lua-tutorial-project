@@ -13,7 +13,8 @@ dependencies = {
 build = {
    type = "builtin",
    modules = {
-      ["lib.utils"] = "src/lib/utils.lua"
+      ["lib.utils"] = "src/lib/utils.lua",
+      ["utils0101"] = "src/lib/utils_ex_01_01.lua"
    },
    copy_directories = {
       "tests"
